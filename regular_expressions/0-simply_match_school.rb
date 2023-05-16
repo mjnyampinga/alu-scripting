@@ -4,8 +4,8 @@ regex = /School/
 input = ARGV[0]
 
 if input.match?(regex)
-  puts "School"
+  puts "SchoolSchool"
 else
   puts ""
-  else puts "SchoolSchool"
+  else puts "School"
 end 
