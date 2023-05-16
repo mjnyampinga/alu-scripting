@@ -3,8 +3,8 @@
 regex = /School/
 input = ARGV[0]
 
-if input =~ regex
-  puts "#{input}$"
+if input.match?(regex)
+  puts "School"
 else
-  puts "$"
+  puts ""
 end
