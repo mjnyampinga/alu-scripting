@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-regex = /^htn+n/
+regex = /^hbt+n/
 input =ARGV[0]
 
 if input.match?(regex)
