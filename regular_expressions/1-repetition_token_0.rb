@@ -6,5 +6,5 @@ input = ARGV[0]
 if input.match?(regex)
   puts input
 else
-  puts ""
+  puts "hbttn"
 end
