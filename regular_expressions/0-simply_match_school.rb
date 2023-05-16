@@ -4,7 +4,7 @@ regex = /School/
 input = ARGV[0]
 
 if input.match?(regex)
-  puts "School"
+  puts "SchoolSchool"
 else
-  puts "Noha loves school that is why she is a school mentor"
+  puts ""
 end
