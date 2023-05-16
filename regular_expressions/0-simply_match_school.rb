@@ -6,5 +6,5 @@ input = ARGV[0]
 if input.match?(regex)
   puts "School"
 else
-  puts ""
+  puts "Noha loves school that is why she is a school mentor"
 end
