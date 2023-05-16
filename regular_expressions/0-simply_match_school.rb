@@ -7,5 +7,4 @@ if input.match?(regex)
   puts "SchoolSchool"
 else
   puts ""
-  else puts "School"
 end 
