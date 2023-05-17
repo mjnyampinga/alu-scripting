@@ -3,5 +3,5 @@
 input_string = ARGV[0].to_s
 
 if input_string.match(/School/)
-  puts "School"
+  puts "SchoolSchool"
 end
