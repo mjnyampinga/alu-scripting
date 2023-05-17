@@ -1,10 +1,7 @@
 #!/usr/bin/env ruby
 
-regex = /School/
-input = ARGV[0]
+input_string = ARGV[0].to_s
 
-if input.match?(regex)
-  puts "SchoolSchool"
-else
-  puts ""
-end 
+if input_string.match(/School/)
+  puts "School"
+end
